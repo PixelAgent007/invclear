@@ -1,0 +1,6 @@
+name: KitPVP ClearInv
+version: '${version}'
+main: org.pixel.invclear.Main
+api-version: 1.17
+authors: [ PixelAgent007 ]
+description: Clears your inventory after death, causing you to not drop any items.
